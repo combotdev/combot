@@ -1,5 +1,6 @@
 # Combot Discord-Bot Nutzungsbedingungen (Terms of Service)
 > **Letzte aktualisierung: 27.07.2023**
+> **Datum des Inkrafttretens: 01.01.2024** 
 
 Durch das Einladen von Combot oder auf deinen Discord-Server erklärst du, dass du diese Bedingungen gelesen, verstanden und akzeptiert hast. Du bist auch dafür verantwortlich, die Mitglieder in deinem Discord-Server über diese Bedingungen zu informieren. 
 
