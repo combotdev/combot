@@ -10,10 +10,6 @@ Wenn du mit einer dieser Bedingungen nicht einverstanden bist, ist es dir unters
 - Du erklärst dich damit einverstanden, den Bot nur in Übereinstimmung mit den Discord-Nutzungsbedingungen (https://discord.com/terms) und den Discord-Richtlinien (https://discord.com/guidelines) zu verwenden.
 - Du bist für sämtliche Handlungen und Inhalte verantwortlich, die du über den Bot ausführst oder veröffentlichst. Du versicherst, dass du alle erforderlichen Rechte an den von dir bereitgestellten Inhalten besitzt und dass diese keine Rechte Dritter verletzen.
 
-## Eigentumsrechte
-
-Wir besitzen und behalten alle Rechte an öffentlich verfügbaren Daten. Wir gewähren dir die Erlaubnis, diese verfügbaren Daten für deine eigenen Bedürfnisse zu verwenden, untersagen jedoch ausdrücklich jegliche kommerzielle Nutzung. Du darfst daher die Daten nicht verkaufen, lizenzieren oder anderweitig kommerzialisieren, es sei denn, dir wurde ausdrücklich die Erlaubnis dazu erteilt.
-
 ## Verfügbarkeit
 Wir streben eine möglichst kontinuierliche Verfügbarkeit des Bots an. Jedoch können wir keine Garantie für eine ununterbrochene, störungsfreie oder fehlerfreie Betrieb des Bots geben.
 Wir behalten uns das Recht vor, den Bot jederzeit und aus beliebigen Gründen nach eigenem Ermessen einzustellen, zu ändern oder einzuschränken, ohne dich davon vorher zu benachrichtigen.
