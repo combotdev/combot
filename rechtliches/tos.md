@@ -7,7 +7,7 @@ Wenn du mit einer dieser Bedingungen nicht einverstanden bist, ist es dir unters
 
 ## Nutzung
 - Der Bot "Combot" ist ein automatisierter Dienst, der auf der Discord-Plattform betrieben wird und von Benutzern in ihren Discord-Servern genutzt werden kann.
-- Du erklärst dich damit einverstanden, den Bot nur in Übereinstimmung mit den Discord-Nutzungsbedingungen [(https://discord.com/terms)](https://discord.com/terms) und den Discord-Richtlinien [(https://discord.com/guidelines)](https://discord.com/guidelines) zu verwenden.
+- Du erklärst dich damit einverstanden, den Bot nur in Übereinstimmung mit den Discord-Nutzungsbedingungen [\(https://discord.com/terms\)](https://discord.com/terms) und den Discord-Richtlinien [\(https://discord.com/guidelines\)](https://discord.com/guidelines) zu verwenden.
 - Du bist für sämtliche Handlungen und Inhalte verantwortlich, die du über den Bot ausführst oder veröffentlichst. Du versicherst, dass du alle erforderlichen Rechte an den von dir bereitgestellten Inhalten besitzt und dass diese keine Rechte Dritter verletzen.
 
 ## Verfügbarkeit
