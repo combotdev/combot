@@ -1,5 +1,6 @@
 # Combot Discord-Bot Datenschutzerklärung (Privacy Policy)
-> Letzte aktualisierung: 27.07.2023
+> **Letzte aktualisierung: 27.07.2023**
+> **Datum des Inkrafttretens: 01.01.2024** 
 
 ## Speicherung von Nutzerdaten
 
