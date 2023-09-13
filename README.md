@@ -18,3 +18,8 @@ Weil Discord eine Nutzungsbedingung benötigt, damit der Combot eventuell in Zuk
 
 - [Nutzungsbedingung](rechtliches/tos.md)
 - [Datenschutzerklärung](rechtliches/privacy.md)
+
+## Roadmap
+| Feature  | Description | Progress | Introduced in Version |
+| - | - | - | - |
+| Counting Minigame  | Erstelle ein Channel/Setze einen Channel, inwelchem Gezählt werden kann. Sollte jemand eine falsche Zahl hineinschreiben, wird der Fortschritt auf 0 gesetzt. Es kann jedoch ab der gescheiterten Zahl weitergezählt werden, wenn maan die 10x Anzahl an Cookies dafür einlöst.  | 90% | RC-5 Pre-47 |
