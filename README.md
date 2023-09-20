@@ -10,7 +10,7 @@ Alle wichtigsten Links, welche sich auf unseren Discord / Discord Bot beziehen, 
 ## Social Media
 Wir als Combot wollen nach dem V3 release auf Twitter / X aktiver sein. Dort sollen zwischendurch kleine Giveaways kommen für Cookies, Abzeichen, etc. Außerdem werden wir euch dort immer auf dem aktuellen Stand halten.
 
-- [Twitter](https://twitter.com/combot09)
+- [Twitter/X](https://twitter.com/combot09)
 <!-- - [X](https://x.com/combot09) -->
 
 ## Rechtliches
@@ -18,10 +18,3 @@ Weil Discord eine Nutzungsbedingung benötigt, damit der Combot eventuell in Zuk
 
 - [Nutzungsbedingung](rechtliches/tos.md)
 - [Datenschutzerklärung](rechtliches/privacy.md)
-
-## Roadmap
-| Feature  | Description | Progress | Introduced in Version |
-| - | - | - | - |
-| Counting Minigame  | Erstelle ein Channel/Setze einen Channel, inwelchem Gezählt werden kann. Sollte jemand eine falsche Zahl hineinschreiben, wird der Fortschritt auf 0 gesetzt. Es kann jedoch ab der gescheiterten Zahl weitergezählt werden, wenn maan die 10x Anzahl an Cookies dafür einlöst.  | 90% | RC-5 Pre-v47 |
-
-*RC = Release Candidate; Eine Beta Version, welche eine mögliche Release Version sein könnte*
